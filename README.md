@@ -1,3 +1,7 @@
+Please download 
+[apache-maven-3.8.5]: https://maven.apache.org/docs/history.html
+[jdk-15]: http://jdk.java.net/archive/
+before starting the source code 
 **LINUX 快速启动**
 `sh ./start.sh`
 
